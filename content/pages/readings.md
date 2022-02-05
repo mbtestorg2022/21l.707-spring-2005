@@ -67,31 +67,663 @@ Barber, Richard. "The Eucharist and the Grail." In _The Holy Grail: Imagination 
 
 {{< anchor "readings_session" >}}{{< /anchor >}}Readings by Session  
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction, The Matter of Britain: Nomenclature and National Identity {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} English Imperialism in the Twelfth-Century {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Gillingham. "The Beginnings of English Imperialism." {{< br >}}{{< br >}} Davies. "The High Kingship of the British Isles." {{< br >}}{{< br >}} Carpenter. "Britain Remodelled," and "King Henry II, Britain and Ireland, 1154-89." {{< br >}}{{< br >}} James. _The Atlantic Celts_. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Imperialist History I: Hebrew Models of Historical Narrative {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Gildas. _The Ruin of Britain_. {{< br >}}{{< br >}} Hanning. "Gildas' _De excidio et conquestu Britanniae_: In Britain's Fall They Sinnèd All." {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Imperialist History II: Roman Models of Secular History {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Bede. _Ecclesiastical History of the English People_. Book I.i-xxii. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Imperialist History III: Christian Models of Salvation History {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Bede. _Ecclesiastical History of the English People_. Book I.xxiii-xxxiv. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Return of the Repressed: Multiplicity and the Marvelous {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Nennius. _British History_. {{< br >}}{{< br >}} ———. _The Welsh Annals_. {{< br >}}{{< br >}} Higham. "Contested Histories." {{< br >}}{{< br >}} White. "The Value of Narrativity in the Representation of Reality." {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Student Presentations {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reconquering the Past: The Motifs of Rivalry and Revenge {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Geoffrey of Monmouth. _History of the Kings of Britain_. Parts I-VI. {{< br >}}{{< br >}} Ingledew. "_The Book of Troy_ and the Genealogical Construction of History." {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Cause of Liberty and the Roots of British Disunity {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Geoffrey of Monmouth. _History of the Kings of Britain_. Parts VII-VIII. {{< br >}}{{< br >}} Warren. "_Historia in marchia_: Geoffrey of Monmouth's Colonial Itinerary." {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Hero of the Nation: Rescue and Redemption {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chrétien de Troyes. _The Knight of the Cart (Lancelot)_. vv.1-3905. {{< br >}}{{< br >}} Pearsall. "The Romancing of the Arthurian Story: Chrétien de Troyes." {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Private Passions: The Political as Personal {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chrétien de Troyes. _The Knight of the Cart (Lancelot)_. vv.3906-7121. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Unnatural History: Linearity, Lineage, and Land Management {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Gerald of Wales. _The History and Topography of Ireland_. {{< br >}}{{< br >}} Cain. "Unnatural History." {{< br >}}{{< br >}} Cohen. "Hybrids, Monsters, Borderlands." {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Land of Enchantment: Monsters, Marvels, and Mastery {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Gerald of Wales. _The Journey through Wales_. {{< br >}}{{< br >}} ———. _The Description of Wales_. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Liberty and License: The Situational Ethics of Erotic Entanglements {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Marie de France. _Prologue_, _Guigemar_, _Equitan_, _Le Frêne_, _Bisclavret_, _Lanval_, _The Two Lovers_. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 15 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Celtic Adventures and the Opportunities for Individual Self-Realization {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Marie de France. _Yonec_, _Laüstic_, _Milon_, _Chaitivel_, _Chevrefeuil_, _Eliduc_. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 16 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Misadventures of the Noble Savage {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chrétien de Troyes. _The Story of the Grail (Perceval)_. vv.1-6236. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 17 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Dissolution of Britain: The Great Revolt of 1173-74 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chrétien de Troyes. _The Story of the Grail (Perceval)_. vv.6237-9235. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 18 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Gender Trouble: Parody and the Play of Perspectives in the Gawain Romances {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _The Knight with the Sword_, _The Perilous Graveyard_. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 19 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Student Presentations {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 20 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Contemptus Mundi_: Gothic Horror and the Grotesque {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Perlesvaux_. Branches I-VII. {{< br >}}{{< br >}} Barber. "The Eucharist and the Grail." {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 21 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lateran IV, Lay Spirituality, and Affective Piety {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Perlesvaux_. Branches VIII-XXI. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 22 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The World as Text {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Perlesvaux_. Branches XXII-XXXV. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 23 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Cyclical Developments {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Lancelot_. Parts 1-3. \[L-GR\] {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 24 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Knight Errantry {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Lancelot_. Parts 4-6. \[L-GR\] {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 25 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Apocalyptic Visions and Cistercian Revisionism {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _The History of the Holy Grail_. {{< br >}}{{< br >}} _The Quest for the Holy Grail_. \[L-GR\] {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 26 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The End of an Era {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _The Death of Arthur_. \[L-GR\] {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction, The Matter of Britain: Nomenclature and National Identity
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+English Imperialism in the Twelfth-Century
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gillingham. "The Beginnings of English Imperialism."
+
+Davies. "The High Kingship of the British Isles."
+
+Carpenter. "Britain Remodelled," and "King Henry II, Britain and Ireland, 1154-89."
+
+James. _The Atlantic Celts_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Imperialist History I: Hebrew Models of Historical Narrative
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gildas. _The Ruin of Britain_.
+
+Hanning. "Gildas' _De excidio et conquestu Britanniae_: In Britain's Fall They Sinnèd All."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Imperialist History II: Roman Models of Secular History
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bede. _Ecclesiastical History of the English People_. Book I.i-xxii.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Imperialist History III: Christian Models of Salvation History
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bede. _Ecclesiastical History of the English People_. Book I.xxiii-xxxiv.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Return of the Repressed: Multiplicity and the Marvelous
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nennius. _British History_.
+
+———. _The Welsh Annals_.
+
+Higham. "Contested Histories."
+
+White. "The Value of Narrativity in the Representation of Reality."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student Presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reconquering the Past: The Motifs of Rivalry and Revenge
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Geoffrey of Monmouth. _History of the Kings of Britain_. Parts I-VI.
+
+Ingledew. "_The Book of Troy_ and the Genealogical Construction of History."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Cause of Liberty and the Roots of British Disunity
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Geoffrey of Monmouth. _History of the Kings of Britain_. Parts VII-VIII.
+
+Warren. "_Historia in marchia_: Geoffrey of Monmouth's Colonial Itinerary."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Hero of the Nation: Rescue and Redemption
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chrétien de Troyes. _The Knight of the Cart (Lancelot)_. vv.1-3905.
+
+Pearsall. "The Romancing of the Arthurian Story: Chrétien de Troyes."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Private Passions: The Political as Personal
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chrétien de Troyes. _The Knight of the Cart (Lancelot)_. vv.3906-7121.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Unnatural History: Linearity, Lineage, and Land Management
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gerald of Wales. _The History and Topography of Ireland_.
+
+Cain. "Unnatural History."
+
+Cohen. "Hybrids, Monsters, Borderlands."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Land of Enchantment: Monsters, Marvels, and Mastery
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gerald of Wales. _The Journey through Wales_.
+
+———. _The Description of Wales_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Liberty and License: The Situational Ethics of Erotic Entanglements
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Marie de France. _Prologue_, _Guigemar_, _Equitan_, _Le Frêne_, _Bisclavret_, _Lanval_, _The Two Lovers_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+15
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Celtic Adventures and the Opportunities for Individual Self-Realization
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Marie de France. _Yonec_, _Laüstic_, _Milon_, _Chaitivel_, _Chevrefeuil_, _Eliduc_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+16
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Misadventures of the Noble Savage
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chrétien de Troyes. _The Story of the Grail (Perceval)_. vv.1-6236.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+17
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Dissolution of Britain: The Great Revolt of 1173-74
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chrétien de Troyes. _The Story of the Grail (Perceval)_. vv.6237-9235.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+18
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gender Trouble: Parody and the Play of Perspectives in the Gawain Romances
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Knight with the Sword_, _The Perilous Graveyard_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+19
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student Presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+20
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Contemptus Mundi_: Gothic Horror and the Grotesque
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Perlesvaux_. Branches I-VII.
+
+Barber. "The Eucharist and the Grail."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+21
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lateran IV, Lay Spirituality, and Affective Piety
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Perlesvaux_. Branches VIII-XXI.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+22
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The World as Text
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Perlesvaux_. Branches XXII-XXXV.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+23
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cyclical Developments
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Lancelot_. Parts 1-3. \[L-GR\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+24
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Knight Errantry
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Lancelot_. Parts 4-6. \[L-GR\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+25
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Apocalyptic Visions and Cistercian Revisionism
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The History of the Holy Grail_.
+
+_The Quest for the Holy Grail_. \[L-GR\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+26
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The End of an Era
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Death of Arthur_. \[L-GR\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
